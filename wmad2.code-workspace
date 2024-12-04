@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../wmad2"
+	},
+	{
+		"path": "../test html"
+	},
+	{
+		"path": "../text-folder"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "test html"
+  }
+}
